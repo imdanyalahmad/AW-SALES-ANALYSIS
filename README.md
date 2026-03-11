@@ -70,10 +70,6 @@ This dashboard helps identify high-value customers and customer segments.
 - Return rates vary across product categories.
 - Revenue trends show consistent growth over time.
 
-
-## Dashboard Preview
-(Add dashboard screenshot here)
-
 ## Author
 Daniyal Ahmad  
 Data Analyst
