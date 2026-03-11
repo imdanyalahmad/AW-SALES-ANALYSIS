@@ -10,6 +10,9 @@ The Report is created using Microsoft Power BI.
 - Microsoft Power BI
 - Microsoft Excel
 - Data Visualization
+- Data Modeling
+- DAX (Data Analysis Expressions)
+
 
 ## Dataset
 The dataset contains Sales records including:
