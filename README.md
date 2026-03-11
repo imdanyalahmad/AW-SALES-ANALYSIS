@@ -2,7 +2,9 @@
  
 
 ## Project Overview
-This Report analyzes Sales data to understand and track Business performace . The Report is created using Microsoft Power BI.
+This Report analyzes Sales data to understand and track Business performace .The dashboard analyzes sales performance, customer behavior, product performance, and return trends using the Adventure Works dataset.
+The objective of this project is to transform raw sales data into meaningful insights using data visualization.
+The Report is created using Microsoft Power BI.
 
 ## Tools Used
 - Microsoft Power BI
